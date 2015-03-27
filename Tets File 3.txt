@@ -1,0 +1,10 @@
+hdfkshskdfsk
+<<<<<<< HEAD
+Harshad Edit file 4
+Harshad Edit file 5
+=======
+new
+new 1
+new 2
+new 3
+>>>>>>> dfe4d12706e7b15f44f85a5e00d3e7cca189acc5
